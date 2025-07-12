@@ -7,7 +7,7 @@ This site showcases smooth scrolling, animated transitions, and interactive sect
 
 ## 🚀 Live Demo
 
-**Live Website** — [Clario](https://harsh6183.github.io/Gsap-headsetwebsite/)) 
+**Live Website** — [Clario](https://harsh6183.github.io/Gsap-headsetwebsite/)
 
 ---
 
@@ -25,7 +25,7 @@ This site showcases smooth scrolling, animated transitions, and interactive sect
 
 | Hero Animation |
 | -------------- |
-| ![Hero](./images/img.jpeg) | 
+| ![Hero](./images/img.png) | 
 
 ---
 
@@ -50,10 +50,7 @@ Gsap-website/
 ```
 ---
 
-👨‍💻 Author
----
-Harsh Nimbalkar
----
-💡 Frontend | Full Stack Developer in progress
----
+👨‍💻 Author  
+Harsh Nimbalkar  
+💡 Frontend | Full Stack Developer in progress  
 🎯 Passionate about web animations and modern UI/UX
